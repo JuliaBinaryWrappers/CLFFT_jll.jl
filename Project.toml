@@ -1,0 +1,19 @@
+name = "CLFFT_jll"
+uuid = "3d56f106-398e-55cb-9b6b-0dced46c254c"
+version = "2.12.2+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+OpenCL_jll = "6cb37087-e8b6-5417-8430-1f242f1e46e4"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+FFTW_jll = "f5851436-0d7a-5f13-b9de-f02708fd171a"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+boost_jll = "28df3c45-c428-5900-9ff8-a3135698ca75"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.6"
+OpenCL_jll = "2022.09.23"
+FFTW_jll = "3.3.10"
+boost_jll = "=1.76.0"

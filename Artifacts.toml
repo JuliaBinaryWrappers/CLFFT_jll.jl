@@ -1,0 +1,116 @@
+[[CLFFT]]
+arch = "aarch64"
+git-tree-sha1 = "f7871afb8a29318a0ed0eb374f672b6089867b6b"
+os = "macos"
+
+    [[CLFFT.download]]
+    sha256 = "f62fa6ff6cc15c4c9bfeed60bd7e3dcbc5f84944016a141a856c63a3947d2d72"
+    url = "https://github.com/JuliaBinaryWrappers/CLFFT_jll.jl/releases/download/CLFFT-v2.12.2+0/CLFFT.v2.12.2.aarch64-apple-darwin.tar.gz"
+[[CLFFT]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d02ffc253d597090abc5bdffc39f0c65b70ea7ed"
+libc = "glibc"
+os = "linux"
+
+    [[CLFFT.download]]
+    sha256 = "bf9e17272efe4a1c96d20c1ad25aa8f66a760c4ba31fa7e479e9ac7ce4713726"
+    url = "https://github.com/JuliaBinaryWrappers/CLFFT_jll.jl/releases/download/CLFFT-v2.12.2+0/CLFFT.v2.12.2.aarch64-linux-gnu-cxx03.tar.gz"
+[[CLFFT]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "02345db273f3aa4601c6026c51fc9e14a303c80d"
+libc = "glibc"
+os = "linux"
+
+    [[CLFFT.download]]
+    sha256 = "8c6efb60fa8570cbb47bbc5d48d37239159e9ae4668487ad68674a0b90829b4a"
+    url = "https://github.com/JuliaBinaryWrappers/CLFFT_jll.jl/releases/download/CLFFT-v2.12.2+0/CLFFT.v2.12.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[CLFFT]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ee55af38fb4613170a63484e6af92e839234ff24"
+libc = "musl"
+os = "linux"
+
+    [[CLFFT.download]]
+    sha256 = "a224b4f5d5a0e8c6ec5c92b54e412c2453c2faa23163f024a4c46b07f76443f4"
+    url = "https://github.com/JuliaBinaryWrappers/CLFFT_jll.jl/releases/download/CLFFT-v2.12.2+0/CLFFT.v2.12.2.aarch64-linux-musl-cxx03.tar.gz"
+[[CLFFT]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a9dd6ca4e607cdc84595c3a24b775f0aeca9c12c"
+libc = "musl"
+os = "linux"
+
+    [[CLFFT.download]]
+    sha256 = "273dd2ae3302c819c26f31f207f4d92f8fed744d0d499bb37b3ac88ace67f44f"
+    url = "https://github.com/JuliaBinaryWrappers/CLFFT_jll.jl/releases/download/CLFFT-v2.12.2+0/CLFFT.v2.12.2.aarch64-linux-musl-cxx11.tar.gz"
+[[CLFFT]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "60d2e9921cf63eaedf36b00e783b87ca6be7c632"
+libc = "glibc"
+os = "linux"
+
+    [[CLFFT.download]]
+    sha256 = "e53288198e0fa6881a6fd251d6dbc0a89d2836e8e2c7ec52f6db5171557386de"
+    url = "https://github.com/JuliaBinaryWrappers/CLFFT_jll.jl/releases/download/CLFFT-v2.12.2+0/CLFFT.v2.12.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[CLFFT]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bea713553c95d54ab8276d68c297c6b5fb558c57"
+libc = "glibc"
+os = "linux"
+
+    [[CLFFT.download]]
+    sha256 = "bd75eed69d0a22b73bb77eee7d5d0ad938b4d00b005d15230b664f08950ffc0d"
+    url = "https://github.com/JuliaBinaryWrappers/CLFFT_jll.jl/releases/download/CLFFT-v2.12.2+0/CLFFT.v2.12.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[CLFFT]]
+arch = "x86_64"
+git-tree-sha1 = "a9f33a19636b6e2ff97edd5319861e08fef71668"
+os = "macos"
+
+    [[CLFFT.download]]
+    sha256 = "498c37ff78bea1d5fc1ea0ee37b341548285149763d492d15b2750a49ead2936"
+    url = "https://github.com/JuliaBinaryWrappers/CLFFT_jll.jl/releases/download/CLFFT-v2.12.2+0/CLFFT.v2.12.2.x86_64-apple-darwin.tar.gz"
+[[CLFFT]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b10f02c3a3022d3b70fed77f90e08f0aa4aae91e"
+libc = "glibc"
+os = "linux"
+
+    [[CLFFT.download]]
+    sha256 = "53705bb70c2a53a1f59db4a1ca542f960156178264b0cd4f522d26e1e673809e"
+    url = "https://github.com/JuliaBinaryWrappers/CLFFT_jll.jl/releases/download/CLFFT-v2.12.2+0/CLFFT.v2.12.2.x86_64-linux-gnu-cxx03.tar.gz"
+[[CLFFT]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "85798af6cb80a6abb6c40e0093eb222e91b53ed8"
+libc = "glibc"
+os = "linux"
+
+    [[CLFFT.download]]
+    sha256 = "091054b4f426909e535f8a7afa8ee5cab8aa7806f15bae1b3b41ed188f626453"
+    url = "https://github.com/JuliaBinaryWrappers/CLFFT_jll.jl/releases/download/CLFFT-v2.12.2+0/CLFFT.v2.12.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[CLFFT]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "dbabdb01dd240cdf25f6659b506b4a03f2e4f360"
+libc = "musl"
+os = "linux"
+
+    [[CLFFT.download]]
+    sha256 = "3ea919b64ae7b8798e1c72cadb39249c3ece6a9b0ff76e7e7a4efb70a336fa4d"
+    url = "https://github.com/JuliaBinaryWrappers/CLFFT_jll.jl/releases/download/CLFFT-v2.12.2+0/CLFFT.v2.12.2.x86_64-linux-musl-cxx03.tar.gz"
+[[CLFFT]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "246282db774e103fffe413128c1400a99f31bc78"
+libc = "musl"
+os = "linux"
+
+    [[CLFFT.download]]
+    sha256 = "da71ef33f81822a32e16281646e44f693c81bec16eed1a799051af3a09d72b9d"
+    url = "https://github.com/JuliaBinaryWrappers/CLFFT_jll.jl/releases/download/CLFFT-v2.12.2+0/CLFFT.v2.12.2.x86_64-linux-musl-cxx11.tar.gz"
